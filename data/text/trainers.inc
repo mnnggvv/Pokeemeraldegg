@@ -534,33 +534,39 @@ Route105_Text_JosuePostBattle:
 	.string "Yeah, for me, the sky is a much better\n"
 	.string "match than the sea.$"
 
-Route106_Text_ElliotIntro:
-	.string "Which do you prefer, fishing in the\n"
-	.string "sea or a stream?$"
+Route110_Text_ElliotIntro:
+	.string "Hey, this is our street!\n"
+	.string "back up, kiddo.$"
 
-Route106_Text_ElliotDefeated:
-	.string "Like in deep-sea fishing, I lost\n"
-	.string "spectacularly!$"
+Route110_Text_ElliotDefeated:
+	.string "Grrr...\n"
+	.string "nevermind.$"
 
-Route106_Text_ElliotPostBattle:
-	.string "Fishing is the greatest whether it's\n"
-	.string "in the sea or a stream.\l"
-	.string "You agree with me, right?$"
+Route110_Text_ElliotPostBattle:
+	.string "Even though I lost,\n"
+	.string "this is still our street.\l"
+	.string "So don't act all though.$"
 
-Route106_Text_ElliotRegister:
-	.string "Fishing's great, but so is battling.\n"
+Route110_Text_ElliotRegister:
+	.string "Hey! Kiddo!\n"
 	.string "If you don't mind, can we meet again?$"
 
-Route106_Text_ElliotRematchIntro:
-	.string "I caught a bunch of POKéMON fishing.\n"
+Route110_Text_ElliotRematchIntro:
+	.string "I caught a bunch of POKéMON.\n"
 	.string "I'll show you an impressive battle!$"
 
-Route106_Text_ElliotRematchDefeated:
-	.string "I lost again spectacularly!$"
+Route110_Text_ElliotRematchDefeated:
+	.string "Grrr... Not again!$"
 
-Route106_Text_ElliotRematchPostBattle:
+Route110_Text_ElliotRematchPostBattle:
 	.string "Win or lose, POKéMON are the greatest!\n"
 	.string "You agree with me, right?$"
+
+Route110_Text_ElliotNotEnoughMons:
+	.string "What? I only battle with two\n"
+	.string "POKéMON at a time, I'm a great\p"
+	.string "fisherman, I always have a lot of\n"
+	.string "POKéMON to battle with!$"
 
 Route106_Text_NedIntro:
 	.string "What do people do if they need to go\n"
